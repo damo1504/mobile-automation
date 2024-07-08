@@ -18,11 +18,11 @@ Ensure you have the following installed:
    git clone https://github.com/damo1504/wdio-appium-saucelabs.git
    cd wdio-appium-saucelabs
    npm install
+
+### Run Tests
+1. npm run test
    
-2. Running Tests
-   npm run test
-   
-3. Generate Report
-   allure generate allure-results --clean -o allure-report
-   allure open allure-report
+### Generate Report
+1. allure generate allure-results --clean -o allure-report
+2. allure open allure-report
 
