@@ -1,0 +1,7 @@
+node_modules
+app
+allure-report
+allure-results
+package-lock.json
+wdio-appium.log
+.DS_Store
